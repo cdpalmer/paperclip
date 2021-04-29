@@ -11,6 +11,7 @@ gem 'rubysl', :platforms => :rbx
 gem 'racc', :platforms => :rbx
 
 gem 'pry'
+gem 'mimemagic', git: 'git@github.com:cdpalmer/mimemagic.git', branch: '0.3'
 
 # Hinting at development dependencies
 # Prevents bundler from taking a long-time to resolve
